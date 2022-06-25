@@ -1,0 +1,12 @@
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\bin\Debug\net6.0\Dinner.Infastructure.deps.json
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\bin\Debug\net6.0\Dinner.Infastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\bin\Debug\net6.0\ref\Dinner.Infastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\bin\Debug\net6.0\Dinner.Infastructure.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.AssemblyInfo.cs
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\ref\Dinner.Infastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infastructure\obj\Debug\net6.0\Dinner.Infastructure.pdb

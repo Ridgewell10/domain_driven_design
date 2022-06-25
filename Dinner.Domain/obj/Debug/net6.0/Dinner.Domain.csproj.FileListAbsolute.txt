@@ -1,0 +1,11 @@
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\bin\Debug\net6.0\Dinner.Domain.deps.json
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\bin\Debug\net6.0\Dinner.Domain.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\bin\Debug\net6.0\ref\Dinner.Domain.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\bin\Debug\net6.0\Dinner.Domain.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.AssemblyInfoInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.AssemblyInfo.cs
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\ref\Dinner.Domain.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.pdb

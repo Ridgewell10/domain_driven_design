@@ -1,0 +1,11 @@
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\bin\Debug\net6.0\Dinner.Contracts.deps.json
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\bin\Debug\net6.0\Dinner.Contracts.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\bin\Debug\net6.0\ref\Dinner.Contracts.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\bin\Debug\net6.0\Dinner.Contracts.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\Dinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\Dinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\Dinner.Contracts.AssemblyInfo.cs
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\Dinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\Dinner.Contracts.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\ref\Dinner.Contracts.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Contracts\obj\Debug\net6.0\Dinner.Contracts.pdb
