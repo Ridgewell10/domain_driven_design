@@ -1,0 +1,17 @@
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.deps.json
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\ref\Dinner.Infrastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Infrastructure.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.AssemblyInfo.cs
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\ref\Dinner.Infrastructure.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Application.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Domain.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Application.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\bin\Debug\net6.0\Dinner.Domain.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Infrastructure\obj\Debug\net6.0\Dinner.Infrastructure.csproj.CopyComplete

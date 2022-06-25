@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dinner.Application.dll": {}
+        }
+      },
+      "Dinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../Dinner.Application/Dinner.Application.csproj",
+      "msbuildProject": "../Dinner.Application/Dinner.Application.csproj"
+    },
+    "Dinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Dinner.Domain/Dinner.Domain.csproj",
+      "msbuildProject": "../Dinner.Domain/Dinner.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Dinner.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ridgewell\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ridgewell\\source\\repos\\domain_driven_design\\Dinner.Infrastructure\\Dinner.Infrastructure.csproj",
+      "projectName": "Dinner.Infrastructure",
+      "projectPath": "C:\\Users\\Ridgewell\\source\\repos\\domain_driven_design\\Dinner.Infrastructure\\Dinner.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ridgewell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ridgewell\\source\\repos\\domain_driven_design\\Dinner.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ridgewell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Ridgewell\\source\\repos\\domain_driven_design\\Dinner.Application\\Dinner.Application.csproj": {
+              "projectPath": "C:\\Users\\Ridgewell\\source\\repos\\domain_driven_design\\Dinner.Application\\Dinner.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

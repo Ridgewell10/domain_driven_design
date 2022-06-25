@@ -9,3 +9,7 @@ C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\obj\Debu
 C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\obj\Debug\net6.0\Dinner.Application.dll
 C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\obj\Debug\net6.0\ref\Dinner.Application.dll
 C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\obj\Debug\net6.0\Dinner.Application.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\obj\Debug\net6.0\Dinner.Application.csproj.AssemblyReference.cache
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\bin\Debug\net6.0\Dinner.Domain.dll
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\bin\Debug\net6.0\Dinner.Domain.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Application\obj\Debug\net6.0\Dinner.Application.csproj.CopyComplete

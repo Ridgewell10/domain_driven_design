@@ -9,3 +9,4 @@ C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net
 C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.dll
 C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\ref\Dinner.Domain.dll
 C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.pdb
+C:\Users\Ridgewell\source\repos\domain_driven_design\Dinner.Domain\obj\Debug\net6.0\Dinner.Domain.csproj.AssemblyReference.cache

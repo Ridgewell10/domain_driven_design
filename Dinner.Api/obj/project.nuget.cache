@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPO79vdcWVWuoM/blsUKD1Ik40kJzhUCdAbTfy0mkRII0lPus4pVDqGozCJc50CLpRWtb0XWJWYixKhNJCBlPg==",
+  "dgSpecHash": "MXfemk0+FqX5FL4ENHUG3oE2uqoSkF0ygX2sywhAcdFzkg56iKRipEzqHMOqLx0rQiNaSwAD5csxuBjycLaSCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ridgewell\\source\\repos\\domain_driven_design\\Dinner.Api\\Dinner.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
